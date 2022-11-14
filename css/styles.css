@@ -1,0 +1,26 @@
+.cover{
+  font-family: sans-serif;
+  text-align: center;
+  background-color: lightblue;
+}
+
+h2{
+  text-align: center;
+}
+
+.item{
+  font-size: x-large;
+  font-family: 'Courier New';
+  font-style: italic;
+  color: red;
+}
+
+.best{
+  font-size: x-large;
+  font-family:sans-serif;
+  color: green;
+}
+
+.filler{
+  font-size: x-large;
+}
